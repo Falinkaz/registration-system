@@ -1,2 +1,2 @@
 # registration-system
-Github usage training
+Github usage training. This project is under construction (Feb '24)
